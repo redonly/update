@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projects>
+
+<project name="Trainman For iOS">
+  <release version="v3.0.0_20151201">
+    <note>Bugs fixed.</note>
+    <url>http://182.239.53.175/trman/trman4ios_release_v3.0.0_20151201.apk</url>
+  </release>
+  <beta version="v3.1.0_20151201">
+    <url>http://182.239.53.175/trman/beta/trman4ios_v3.1.0_20151201.apk</url>
+  </beta>
+</project>
+
+<project name="Trainman For Android">
+  <release version="v3.0.0_20151201">
+    <note>Bugs fixed.</note>
+    <url>http://182.239.53.175/trman/trman4android_release_v3.0.0_20151201.apk</url>
+  </release>
+</project>
+
+<project name="Trainman Manager">
+  <release version="v3.0.0_20151201">
+    <note>Bugs fixed.</note>
+    <url>http://182.239.53.175/trman/Trainman_Manager_v3.0.0_20151201.zip</url>
+  </release>
+</project>
+
+
+<project name="I.C.S For iOS">
+  <release version="v3.0.0_20151201">
+    <note>Bugs fixed.</note>
+    <url>http://182.239.53.175/ics/ics4ios_release_v3.0.0_20151201.apk</url>
+  </release>
+  <beta version="v3.1.0_20151201">
+    <url>http://182.239.53.175/ics/beta/ics4ios_v3.1.0_20151201.apk</url>
+  </beta>
+</project>
+
+<project name="I.C.S For Android">
+  <release version="v3.0.0_20151201">
+    <note>Bugs fixed.</note>
+    <url>http://182.239.53.175/ics/ics4android_release_v3.0.0_20151201.apk</url>
+  </release>
+</project>
+
+<project name="I.C.S Manager">
+  <release version="v3.0.0_20151201">
+    <note>Bugs fixed.</note>
+    <url>http://182.239.53.175/ics/I.C.S_Manager_v3.0.0_20151201.zip</url>
+  </release>
+</project>
+
+<projects>
